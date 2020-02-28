@@ -1,7 +1,7 @@
 # MultiMC-Patcher
 Patches MultiMC Instances for ARM64
 
-fixlibgl3.sh was modified from [This GitLab Snippet](https://gitlab.com/snippets/1933165)
+fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets/1933165)
 
 ## How to install:
 1. Create the "patches" directory instide the root directory of MultiMC
