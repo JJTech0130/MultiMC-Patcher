@@ -13,3 +13,6 @@ fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets
   + It would look like this: `./fixgl2.sh name_of_pre_1.13_instance` or `./fixgl3.sh name_of_post_1.13_instance`
 3. Now launch the instance you just patched and hopefully it should work :)
   + Note: *You need to patch every new instance you create!*
+## Notes:
++ Uses compiled binaries for LWJGL2 Aarch64 found [here](https://github.com/JJTech0130/Aarch64-Natives) (The script actually gets them from my dropbox)
++ Gets LWJGL3 directly from maven.
