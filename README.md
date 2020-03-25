@@ -13,3 +13,4 @@ fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets
 ## Notes:
 + Uses compiled binaries for LWJGL2 Aarch64 found [here](https://github.com/JJTech0130/Aarch64-Natives) (The script actually gets them from my dropbox)
 + Gets LWJGL3 directly from maven.
++ This is still a mess. Please feel free to contribute/ clean up!
