@@ -3,6 +3,8 @@ Patches MultiMC Instances for ARM64/Aarch64
 
 fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets/1933165)
 
+Use MultiMC from [here](https://github.com/JJTech0130/MultiMC5/releases) (latest release)
+
 ## For Raspberry Pi users:
 + Use a 64-bit OS: [Ubuntu](https://ubuntu.com/download/raspberry-pi) or [Gentoo](https://github.com/sakaki-/gentoo-on-rpi-64bit). I personally prefer the Ubuntu (you need to install the desktop yourself) with KDE Plasma, but that is a matter of personal opinion.
 + Use low graphics settings and/or OptiFine: self-explanatory
