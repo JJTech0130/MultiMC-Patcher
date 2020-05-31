@@ -6,7 +6,8 @@ fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets
 Use MultiMC from [here](https://github.com/JJTech0130/MultiMC5/releases) (latest release)
 
 ## For Raspberry Pi users:
-+ Use a 64-bit OS: [Ubuntu](https://ubuntu.com/download/raspberry-pi) or [Gentoo](https://github.com/sakaki-/gentoo-on-rpi-64bit). I personally prefer the Ubuntu (you need to install the desktop yourself) with KDE Plasma, but that is a matter of personal opinion.
++ Use a 64-bit OS: You can use the 64-bit kernel with 32-bit raspbian as shown [here](https://github.com/sakaki-/raspbian-nspawn-64) or the new beta 64 bit raspbian as shown [here](https://www.raspberrypi.org/forums/viewtopic.php?f=117&t=275370).
+[Ubuntu](https://ubuntu.com/download/raspberry-pi) or [Gentoo](https://github.com/sakaki-/gentoo-on-rpi-64bit). I personally prefer the Ubuntu (you need to install the desktop yourself) with KDE Plasma, but that is a matter of personal opinion.
 + Use low graphics settings and/or OptiFine: self-explanatory
 + It is faster to use versions below 1.13 but higher versions should work (file a bug if not!)
 + Raspberry Pi 4 is best used overclocked (with cooling) and minecraft set to use ~3GB RAM (if you have the 4GB model)
