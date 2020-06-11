@@ -1,4 +1,4 @@
-# MultiMC-Patcher
+# [DEPRACATED] MultiMC-Patcher - Please use ARM64 version of MultiMC
 Patches MultiMC Instances for ARM64/Aarch64
 
 fixlibgl3.sh was modified from [this GitLab Snippet](https://gitlab.com/snippets/1933165)
